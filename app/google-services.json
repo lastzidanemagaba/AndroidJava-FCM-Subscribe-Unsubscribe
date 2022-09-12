@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241940741533",
+    "project_id": "zidanenotif",
+    "storage_bucket": "zidanenotif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241940741533:android:6c80fcd7504d7bdba2c374",
+        "android_client_info": {
+          "package_name": "com.test.pushnotificationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241940741533-7jlls8h265tg9lva54agukgtgqb9deh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdotKy16zQE1W3iu5NThAGQHnjsenB1To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241940741533-7jlls8h265tg9lva54agukgtgqb9deh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
